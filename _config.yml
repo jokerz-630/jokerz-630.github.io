@@ -102,5 +102,5 @@ theme: plata
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/jokerz-630/jokerz-630.github.io.git
+  repo: git@github.com:jokerz-630/jokerz-630.github.io.git
   branch: main
