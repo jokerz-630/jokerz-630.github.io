@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ""
-description: ""
+title: JokerZ个人博客
+subtitle: 想要一个很酷的英文名
+description: 想要成为程序里打篮球最好的，篮球里写代码最棒的
 keywords:
-author: John Doe
-language: en
-timezone: ""
+author: Joker Z
+language: zh-CN
+timezone: Asia/Shanghai
+slogan: 想要成为程序里打篮球最好的，篮球里写代码最棒的
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://jokerz-630.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
