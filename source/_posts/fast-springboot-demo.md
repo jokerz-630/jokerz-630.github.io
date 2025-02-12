@@ -1,7 +1,7 @@
 ---
 title: 单体springboot小应用基础配置项
 date: 2025-02-11 10:00:00
-tags:Spring,SpringBoot
+tags: [java, Spring, SpringBoot]
 ---
 
 # 快速搭建 springboot 单体应用的步骤
@@ -10,7 +10,7 @@ tags:Spring,SpringBoot
 
 1. 使用 idea 创建，并选择相关的依赖，这里只引入了最简单的部分
 
-   <img src="./image-20250211094135244.png" alt="image-20250211094135244" style="zoom: 50%;" />
+   <img src="/images/image-20250211094135244.png" alt="image-20250211094135244" style="zoom: 50%;" />
 
 2. 编写一个简单的接口，验证项目是否创建成功
 
@@ -18,7 +18,7 @@ tags:Spring,SpringBoot
    @RestController
    @RequestMapping("/")
    public class HomeController {
-   
+
        @GetMapping
        public String helloWorld() {
            return "Hello World!";
