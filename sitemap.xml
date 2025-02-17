@@ -8,6 +8,11 @@
     </sitemap>
 
     <sitemap>
+        <loc>https://jokerz-630.github.io/page-sitemap.xml</loc>
+        <lastmod>2025-02-17T05:19:25.348Z</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>https://jokerz-630.github.io/tag-sitemap.xml</loc>
         <lastmod>2025-02-12T08:54:54.027Z</lastmod>
     </sitemap>
